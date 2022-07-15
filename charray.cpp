@@ -10,7 +10,7 @@ using namespace std;
  {
      int i = 0 ;
      char ch = cin.get();
-     while (ch ! = '\n'){
+     while (ch != '\n'){
          a[i] = ch;   
 
          i++;
@@ -22,7 +22,7 @@ using namespace std;
          }
          ch = cin.get();
 
-     }
+}
             //once out of the loop 
      a[i] = '\0';
      return; 

@@ -36,7 +36,7 @@ cin.get();
 }
 
 
-cout<<largest<" and "<< largest_len<<endl;
+cout<<largest<<"and"<<largest_len<<endl;
 
 
 

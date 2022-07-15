@@ -21,10 +21,10 @@ cout<< a <<endl; //contents of the array .unless u find a nul character in the a
 
 //cout<<s;
 
-char s1[] = {'h','e','l','l','o'};  //doesnot terminate with null
+char pat[] = {'h','e','l','l','o'};  //doesnot terminate with null
 char s2[] = "hello"; //another way
 
-cout<<s1<<" "<<sizeof(s1)<<endl; //5 bytes
+cout<<pat<<" "<<sizeof(pat)<<endl; //5 bytes
 
 cout<<s2<<" "<<sizeof(s2)<<endl;  //6 bytes
 

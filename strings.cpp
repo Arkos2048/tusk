@@ -96,7 +96,7 @@ cout<<s<<endl;
 
 //iterate over all the characters in the string 
 
-for(int i = 0l; i<s1.length();i++)
+for(int i = 0; i<s1.length();i++)
 {
     cout<<s1[i]<<":";
 }
